@@ -7,3 +7,4 @@ include:
 [Virustotal Gradle Plugin 1.0](https://github.com/palador/gradle-virustotal)
 [Virustotal Gradle Plugin 1.1](https://github.com/palador/gradle-virustotal)
 [Virustotal Gradle Plugin 1.2](https://github.com/palador/gradle-virustotal)
+[Virustotal Gradle Plugin 1.3](https://github.com/palador/gradle-virustotal)
