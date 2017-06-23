@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 23 18:00:28 CEST 2017
+jface.databinding-1.8.1.jar>=
+jface.databinding-1.8.1.pom>=

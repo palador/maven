@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.eclipse.swt</groupId>
+  <artifactId>swt.gtk-linux-x86_64</artifactId>
+  <versioning>
+    <release>4.7RC4a</release>
+    <versions>
+      <version>4.7RC4a</version>
+    </versions>
+    <lastUpdated>20170623160625</lastUpdated>
+  </versioning>
+</metadata>

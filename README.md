@@ -9,3 +9,5 @@ include:
 [Virustotal Gradle Plugin 1.2](https://github.com/palador/gradle-virustotal)
 [Virustotal Gradle Plugin 1.3](https://github.com/palador/gradle-virustotal)
 [Virustotal Gradle Plugin 1.3.1](https://github.com/palador/gradle-virustotal)
+[Eclipse SWT](https://eclipse.org/swt)
+[Eclipse JFace](https://eclipse.org/JFace)

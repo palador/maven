@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 23 18:06:25 CEST 2017
+swt.gtk-linux-x86_64-4.7RC4a.jar>=
+swt.gtk-linux-x86_64-4.7RC4a.pom>=
+swt.gtk-linux-x86_64-4.7RC4a-sources.jar>=
